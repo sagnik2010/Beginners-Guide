@@ -1,6 +1,15 @@
-function helloWorld () {
-    alert("Hello World!")
-    console.log("Hello World")
+minecraft = "minecraft  is good"
+creativeDestruction = "creative destruction is bad"
+
+function hello () {
+    alert("cool")
+    console.log("nice")
 }
 
-helloWorld()
+function games (minecraft, creativeDestruction) {
+    alert(minecraft)
+    console.log(creativeDestruction)
+}
+
+hello()
+games()
